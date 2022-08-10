@@ -1,0 +1,15 @@
+[
+  {
+    "count": 0,
+    "name": "myplugin/azure_bluet",
+    "type": "Block"
+  },
+  {
+    "countRange": {
+      "max": 0,
+      "min": 0
+    },
+    "name": "",
+    "type": "Item"
+  }
+]

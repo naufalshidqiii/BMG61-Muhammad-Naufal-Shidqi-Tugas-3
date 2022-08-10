@@ -1,0 +1,3 @@
+BLOCK_ON {
+	ReviveEntity(entity = $obj1, map = $map, pos = GetRebirthPos(entity = $obj1))
+}
